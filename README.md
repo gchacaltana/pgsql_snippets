@@ -8,3 +8,4 @@ Potencia tu productividad en Postgres con estos SQL snippets.
 4. Insertar registro si no existe, actualizar en caso contrario.
 5. Copiar filas de una tabla a otra
 6. Eliminar y devolver información eliminada
+7. Mover filas de una tabla a otra
